@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\src",
+    "\\src\\App_Data",
+    "\\src\\App_Data\\PublishProfiles"
+  ],
+  "SelectedNode": "\\src",
+  "PreviewInSolutionExplorer": false
+}
